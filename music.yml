@@ -1,0 +1,61 @@
+music:
+  menus:
+    menu 1:
+      name:
+      music_names:
+      -
+      music_Json:
+      -
+    menu 2:
+      name:
+      music_names:
+      -
+      music_Json:
+      -
+    menu 3:
+      name:
+      music_names:
+      -
+      music_Json:
+      -
+    menu 4:
+      name:
+      music_names:
+      -
+      music_Json:
+      -
+    menu 5:
+      name:
+      music_names:
+      -
+      music_Json:
+      -
+    menu 6:
+      name:
+      music_names:
+      -
+      music_Json:
+      -
+    menu 7:
+      name:
+      music_names:
+      -
+      music_Json:
+      -
+    menu 8:
+      name:
+      music_names:
+      -
+      music_Json:
+      -
+    menu 9:
+      name:
+      music_names:
+      -
+      music_Json:
+      -
+  others_music:
+    music_names:
+    - 
+    music_Json:
+    - 

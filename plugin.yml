@@ -1,0 +1,30 @@
+name: MusicDisc
+version: 4.0.0
+api-version: 1.16
+author: Exelo
+main: fr.exelo.musicdisc.Main
+
+commands:
+  music:
+    description: Plugin command
+    permission: music.music
+
+permissions:
+   music.*:
+     description: Give all permission of the plugin
+     children:
+       music.give: true
+       music.music: true
+       music.music.others: true
+       music.reload: true
+   music.give:
+     description: Key giving permission
+     default: op
+   music.music:
+     description: Music playing permission
+     default: op
+   music.music.others:
+     description: Music to others playing permission
+     default: op
+   music.reload:
+     description: Reload permission
